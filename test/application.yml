@@ -1,2 +1,9 @@
 greeting:
   message: Hello Hello chalie pooth!
+
+---
+spring:
+  profiles: production
+
+greeting:
+  message: hipen hipen
