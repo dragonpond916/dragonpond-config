@@ -3,7 +3,7 @@ greeting:
 
 ---
 spring:
-  profiles: production
+  profiles: prod
 
 greeting:
   message: hipen hipen
